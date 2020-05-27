@@ -1,8 +1,8 @@
-package project.chess.horse;
+package chess.horse;
 
 import java.util.ArrayList;
 
-import project.chess.Board;
+import chess.Board;
 
 /**
  * Horse

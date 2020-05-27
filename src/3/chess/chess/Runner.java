@@ -1,4 +1,4 @@
-package project.chess;
+package chess;
 
 /**
  * Runner

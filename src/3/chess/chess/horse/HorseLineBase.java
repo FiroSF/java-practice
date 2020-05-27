@@ -1,6 +1,6 @@
-package project.chess.horse;
+package chess.horse;
 
-import project.chess.Board;
+import chess.Board;
 
 /**
  * HorseLineBase

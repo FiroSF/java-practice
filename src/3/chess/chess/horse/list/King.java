@@ -1,7 +1,7 @@
-package project.chess.horse.list;
+package chess.horse.list;
 
-import project.chess.Board;
-import project.chess.horse.HorseBase;
+import chess.Board;
+import chess.horse.HorseBase;
 
 /**
  * King

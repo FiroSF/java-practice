@@ -1,11 +1,11 @@
-package project.chess;
+package chess;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-import project.chess.horse.HorseBase;
-import project.chess.horse.list.*;
+import chess.horse.HorseBase;
+import chess.horse.list.*;
 
 /**
  * Board
